@@ -2,7 +2,7 @@
 
 I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Science at the University of Akron, United States. 
 
-- 🔭 I have worked on projects using machine learning algorithms such as SVM and logistic regression.
+- 🔭 I have worked on projects using machine learning algorithms such as SVM, logistic regression and EDA/Feature Engineering.
 - 🔭 Currently, I'm diving into projects involving Artificial Neural Networks (ANN) and exploring metaparameters.
 
 ### Skills
