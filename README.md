@@ -7,8 +7,8 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 
 ### Skills
 
-- **ML & AI** ![ML & AI](https://img.icons8.com/color/48/000000/machine-learning.png)
 - **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
+- **ML & AI** ![ML & AI](https://img.icons8.com/ios/50/000000/artificial-intelligence.png)
 - **Unit Testing** ![Unit Testing](https://img.icons8.com/color/48/000000/test-tube.png)
 - **EDA (Exploratory Data Analysis)** ![EDA](https://img.icons8.com/ios/50/000000/data.png)
 - **ETL (Extract, Transform, Load)** ![ETL](https://img.icons8.com/color/48/000000/etl.png)
@@ -21,7 +21,6 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 
 ### Skills
 
-- **ML & AI** ![ML & AI](https://img.icons8.com/ios/50/000000/artificial-intelligence.png)
 - **EDA (Exploratory Data Analysis)** ![EDA](https://img.icons8.com/ios/50/000000/data.png)
 - **ETL (Extract, Transform, Load)** ![ETL](https://img.icons8.com/color/48/000000/etl.png)
 - **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)
