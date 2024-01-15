@@ -1,5 +1,5 @@
 ### Hi there 👋 , 
-I'm Pratik Pujara
+I'm Pratik Pujara ! /n
 Currently, Pursuing Undergraduate in Computer Science from University of Akron, United States
 
 - 🔭 I have worked on projects using machine learning algoirthms SVM, logistic regression...
