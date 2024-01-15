@@ -5,7 +5,6 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - 🔭 I have worked on projects using machine learning algorithms such as SVM and logistic regression.
 - 🔭 Currently, I'm diving into projects involving Artificial Neural Networks (ANN) and exploring metaparameters.
 
-My skillsets are:
 ### Skills
 
 - **Docker** ![Docker](https://fontawesome.com/icons/docker?style=brands)
@@ -14,6 +13,15 @@ My skillsets are:
 - **Ansible** ![Ansible](https://fontawesome.com/icons/ansible?style=brands)
 - **Jenkins** ![Jenkins](https://fontawesome.com/icons/jenkins?style=brands)
 - **Azure** ![Azure](https://fontawesome.com/icons/microsoft?style=brands)
+- ### Skills
+
+- **Docker** ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+- **Kubernetes** ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png)
+- **Terraform** ![Terraform](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
+- **Ansible** ![Ansible](https://www.ansible.com/hubfs/2017_Images/Assets/Ansible-Facebook-1200x630.png)
+- **Jenkins** ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.png)
+- **Azure** ![Azure](https://docs.microsoft.com/en-us/azure/architecture/icons/png/azure-symbol-color.png)
+
 
 
 Feel free to connect or explore my projects!
