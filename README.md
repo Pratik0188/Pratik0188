@@ -19,16 +19,6 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - **Jenkins**   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 - **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure-1.png)
 
-### Skills
-
-### Skills
-
-- **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)
-- **EDA (Exploratory Data Analysis)** ![EDA](https://img.icons8.com/ios/50/000000/data.png)
-- **ETL (Extract, Transform, Load)** ![ETL](https://img.icons8.com/color/48/000000/etl.png)
-
-
-
 Feel free to connect or explore my projects!
 
 <!--
