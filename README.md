@@ -7,14 +7,13 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 
 ### Skills
 
-### Skills
+- **Docker** ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+- **Kubernetes** ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+- **Terraform** ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
+- **Ansible** ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
+- **Jenkins** ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+- **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)
 
-- **Docker** ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-- **Kubernetes** ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1024px-Kubernetes_logo_without_workmark.svg.png)
-- **Terraform** ![Terraform](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
-- **Ansible** ![Ansible](https://www.ansible.com/hubfs/2017_Images/Assets/Ansible-Facebook-1200x630.png)
-- **Jenkins** ![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.png)
-- **Azure** ![Azure](https://docs.microsoft.com/en-us/azure/architecture/icons/png/azure-symbol-color.png)
 
 Feel free to connect or explore my projects!
 
