@@ -20,7 +20,6 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure-1.png)
 
 Feel free to connect or explore my projects!
-Contact Info: 234-718-1263
 LinkedIn: https://www.linkedin.com/in/pratik-pujara-b343b0262/
 
 <!--
