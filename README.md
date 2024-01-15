@@ -1,9 +1,15 @@
-### Hi there 👋 , 
-I'm Pratik Pujara ! /n
-Currently, Pursuing Undergraduate in Computer Science from University of Akron, United States
+### Hi there! 👋
 
-- 🔭 I have worked on projects using machine learning algoirthms SVM, logistic regression...
-- 🔭 I’m currently working on ANN, metaparameters projects...
+I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Science at the University of Akron, United States. 
+
+- 🔭 I have worked on projects using machine learning algorithms such as SVM and logistic regression.
+- 🔭 Currently, I'm diving into projects involving Artificial Neural Networks (ANN) and exploring metaparameters.
+
+My skillsets are:
+![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
+
+Feel free to connect or explore my projects!
+
 <!--
 **Pratik0188/Pratik0188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
