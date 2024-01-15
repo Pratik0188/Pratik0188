@@ -20,6 +20,7 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - **ETL (Extract, Transform, Load)** ![ETL](https://img.icons8.com/color/48/000000/etl.png)
 
 
+
 Feel free to connect or explore my projects!
 
 <!--
