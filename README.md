@@ -6,7 +6,15 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - 🔭 Currently, I'm diving into projects involving Artificial Neural Networks (ANN) and exploring metaparameters.
 
 My skillsets are:
-![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
+### Skills
+
+- **Docker** ![Docker](https://fontawesome.com/icons/docker?style=brands)
+- **Kubernetes** ![Kubernetes](https://fontawesome.com/icons/kubernetes?style=brands)
+- **Terraform** ![Terraform](https://fontawesome.com/icons/terraform?style=brands)
+- **Ansible** ![Ansible](https://fontawesome.com/icons/ansible?style=brands)
+- **Jenkins** ![Jenkins](https://fontawesome.com/icons/jenkins?style=brands)
+- **Azure** ![Azure](https://fontawesome.com/icons/microsoft?style=brands)
+
 
 Feel free to connect or explore my projects!
 
