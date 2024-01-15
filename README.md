@@ -12,9 +12,7 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - **Terraform**   ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
 - **Ansible**   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
 - **Jenkins**   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-- **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)
-
-
+- **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure-1.png)
 
 Feel free to connect or explore my projects!
 
