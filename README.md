@@ -7,15 +7,7 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 
 ### Skills
 
-- **Docker** ![Docker](https://fontawesome.com/icons/docker?style=brands)
-- **Kubernetes** ![Kubernetes](https://fontawesome.com/icons/kubernetes?style=brands)
-- **Terraform** ![Terraform](https://fontawesome.com/icons/terraform?style=brands)
-- **Ansible** ![Ansible](https://fontawesome.com/icons/ansible?style=brands)
-- **Jenkins** ![Jenkins](https://fontawesome.com/icons/jenkins?style=brands)
-- **Azure** ![Azure](https://fontawesome.com/icons/microsoft?style=brands)
-- ### Skills
-
-- **Docker** ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+- **Docker** ![Docker]([https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png](https://www.google.com/search?client=safari&sca_esv=598551819&rls=en&q=docker+icon&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjpjInUqN-DAxWCkokEHYGdDWoQ0pQJegQIDBAB&biw=1680&bih=893&dpr=2#imgrc=PdFEaVra7rTM1M))
 - **Kubernetes** ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png)
 - **Terraform** ![Terraform](https://www.terraform.io/assets/images/og-image-8b3e4f7d.png)
 - **Ansible** ![Ansible](https://www.ansible.com/hubfs/2017_Images/Assets/Ansible-Facebook-1200x630.png)
