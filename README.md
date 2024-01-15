@@ -13,6 +13,12 @@ I'm Pratik Pujara, currently pursuing my Undergraduate degree in Computer Scienc
 - **Ansible**   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
 - **Jenkins**   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 - **Azure** ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure-1.png)
+- **ML & AI** ![ML & AI](https://img.icons8.com/color/48/000000/machine-learning.png)
+- **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
+- **Unit Testing** ![Unit Testing](https://img.icons8.com/color/48/000000/test-tube.png)
+- **EDA (Exploratory Data Analysis)** ![EDA](https://img.icons8.com/ios/50/000000/data.png)
+- **ETL (Extract, Transform, Load)** ![ETL](https://img.icons8.com/color/48/000000/etl.png)
+
 
 Feel free to connect or explore my projects!
 
